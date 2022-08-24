@@ -264,6 +264,7 @@ PLATFORMS
 
 DEPENDENCIES
   bootstrap (= 4.0.0.alpha6)
+  bundler (~> 2.3, >= 2.3.20)
   byebug
   capybara (~> 2.13)
   coffee-rails (~> 4.2)

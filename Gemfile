@@ -71,6 +71,8 @@ gem 'devise'
 # include FontAwesome
 gem "font-awesome-rails"
 
+#bundler
+gem 'bundler', '~> 2.3', '>= 2.3.20'
 
 group :development, :test do
   gem 'rspec-rails', '~> 3.5'
